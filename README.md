@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋  
+
+✨ My name is Umamaheswararao Meka   
+✨ I'm a Full Stack Developer  
+✨ Hobbies: Reading Novels  
+✨ Current Company: Confidential  
+✨ Skills: HTML5, CSS3, JavaScript, jQuery, TypeScript, Angular 10/11, ReactJS C#, ASP.NET Core,Bootstrap,SQL, Python  
 
 <!--
 **UmamaheshMaxwell/UmamaheshMaxwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
