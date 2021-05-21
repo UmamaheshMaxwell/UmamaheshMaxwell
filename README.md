@@ -4,7 +4,7 @@
 ✨ I'm a Full Stack Developer  
 ✨ Hobbies: Reading Novels  
 ✨ Current Company: Confidential  
-✨ Skills: HTML5, CSS3, JavaScript, jQuery, TypeScript, Angular 10/11, ReactJS, C#, ASP.NET Core,Bootstrap,SQL, Python  
+✨ Skills: HTML5, CSS3, JavaScript, jQuery, TypeScript, NodeJS, Angular 10/11, ReactJS, C#, ASP.NET Core,Bootstrap, SQL, Python, MongoDB  
 
 ####  🔭 My Current Projects
  
