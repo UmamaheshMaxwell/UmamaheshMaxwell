@@ -10,7 +10,7 @@
  
   - [UmamaheshMaxwell/svelte-basic-app](https://github.com/UmamaheshMaxwell/svelte-basic-app)  - **Svelte** | A basic repo to explore svelte  
   - [UmamaheshMaxwell/flask-basic-app](https://github.com/UmamaheshMaxwell/flask-basic-app)  - **Flask** | A basic repo to explore Flask
-  - [UmamaheshMaxwell/flask-basic-app](https://github.com/UmamaheshMaxwell/20-Javascript-web-projects)  - **20 projects with vanilla JavaScript** | Javascript
+  - [UmamaheshMaxwell/20-Javascript-web-projects](https://github.com/UmamaheshMaxwell/20-Javascript-web-projects)  - **20 projects with vanilla JavaScript** | Javascript
   - [UmamaheshMaxwell/50-days-50-Projects](https://github.com/UmamaheshMaxwell/50-days-50-Projects)  - **50 Projects in 50 days** | HTML5, CSS3, Javascript
 
 #### 🌱 My Javascript Projects
