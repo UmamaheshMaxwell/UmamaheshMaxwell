@@ -1,8 +1,7 @@
 ### Hi there 👋  
 
 ✨ My name is Umamaheswararao Meka   
-✨ I'm a Full Stack Developer  
-✨ Hobbies: Reading Novels   
+✨ I'm a Full Stack Developer    
 
 ### Languages and Skills
 
