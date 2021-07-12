@@ -2,9 +2,39 @@
 
 ✨ My name is Umamaheswararao Meka   
 ✨ I'm a Full Stack Developer  
-✨ Hobbies: Reading Novels  
-✨ Current Company: Confidential  
-✨ Skills: HTML5, CSS3, JavaScript, jQuery, TypeScript, NodeJS, Angular 10/11, ReactJS, C#, ASP.NET Core,Bootstrap, SQL, Python, MongoDB  
+✨ Hobbies: Reading Novels   
+
+### Languages and Skills
+
+ #### 🌐 Frontend
+
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+ ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+ ![Angular 10/11](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+ ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+ ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+ ![vueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+ 
+ #### 🚀 Backend
+ 
+ ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+ ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+ 
+
+ #### ⚡ Database
+ ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+ ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=orange)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmamaheshMaxwell&layout=compact&theme=radical)
+ 
+
 
 ####  🔭 My Current Projects
  
@@ -18,6 +48,9 @@
 
   - [UmamaheshMaxwell/javascript-basic-advanced](https://github.com/UmamaheshMaxwell/javascript-basic-advanced) - **JavaScript** | A repo with all basic concepts
   - [UmamaheshMaxwell/javascript-arrays](https://github.com/UmamaheshMaxwell/javascript-arrays) - **JavaScript Arrays** | Examples for Javscript Arrays
+
+### Github Stats  
+ ![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmamaheshMaxwell&show_icons=true&theme=radical)
 
 <!--
 **UmamaheshMaxwell/UmamaheshMaxwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
