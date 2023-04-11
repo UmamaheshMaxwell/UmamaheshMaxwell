@@ -37,7 +37,7 @@
 
 ####  🔭 My Current Projects
  
-  - [UmamaheshMaxwell/next-feature-app](https://github.com/UmamaheshMaxwell/next-feature-app)  - **Next** | A basic repo to explore Next.js 
+  - [UmamaheshMaxwell/terraform-gcp-automation](https://github.com/UmamaheshMaxwell/terraform-gcp-automation)  - **Next** | A basic repo to explore terraform 
   - [UmamaheshMaxwell/svelte-basic-app](https://github.com/UmamaheshMaxwell/svelte-basic-app)  - **Svelte** | A basic repo to explore svelte  
   - [UmamaheshMaxwell/flask-basic-app](https://github.com/UmamaheshMaxwell/flask-basic-app)  - **Flask** | A basic repo to explore Flask
   - [UmamaheshMaxwell/20-Javascript-web-projects](https://github.com/UmamaheshMaxwell/20-Javascript-web-projects)  - **20 projects with vanilla JavaScript** | Javascript
