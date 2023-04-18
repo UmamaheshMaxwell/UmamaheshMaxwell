@@ -5,6 +5,15 @@
 
 ### Languages and Skills
 
+ #### 🚀 Automation
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+ #### ⚡ Cloud
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+ #### 🚀 Container Orchestration
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
  #### 🌐 Frontend
 
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +46,7 @@
 
 ####  🔭 My Current Projects
  
-  - [UmamaheshMaxwell/terraform-gcp-automation](https://github.com/UmamaheshMaxwell/terraform-gcp-automation)  - **Next** | A basic repo to explore terraform 
+  - [UmamaheshMaxwell/terraform-gcp-automation](https://github.com/UmamaheshMaxwell/terraform-gcp-automation)  - **Terraform** | A basic repo to explore terraform 
   - [UmamaheshMaxwell/svelte-basic-app](https://github.com/UmamaheshMaxwell/svelte-basic-app)  - **Svelte** | A basic repo to explore svelte  
   - [UmamaheshMaxwell/flask-basic-app](https://github.com/UmamaheshMaxwell/flask-basic-app)  - **Flask** | A basic repo to explore Flask
   - [UmamaheshMaxwell/20-Javascript-web-projects](https://github.com/UmamaheshMaxwell/20-Javascript-web-projects)  - **20 projects with vanilla JavaScript** | Javascript
